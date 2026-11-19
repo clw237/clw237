@@ -27,7 +27,6 @@ Python · TypeScript · React · FastAPI · PostgreSQL · GitHub Actions · Clau
 
 ## Get in touch
 
-<!-- Add whichever you want public -->
 - LinkedIn: https://www.linkedin.com/in/camronworkman/
 - Email: camron.workman@yahoo.com
 
