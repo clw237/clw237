@@ -23,7 +23,7 @@ and turning what works into reusable process.
 
 ## Tools I reach for
 
-Python · TypeScript · React · FastAPI · PostgreSQL · GitHub Actions · Claude Code
+C# · Python · Java · TypeScript · React · FastAPI · PostgreSQL · GitHub Actions · Claude Code 
 
 ## Get in touch
 
